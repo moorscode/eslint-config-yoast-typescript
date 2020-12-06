@@ -1,8 +1,8 @@
 {
-  "name": "eslint-config-yoast",
-  "version": "5.0.17",
+  "name": "eslint-config-yoast-typescript",
+  "version": "1.0.0",
   "private": false,
-  "description": "ESLint configuration for Yoast projects",
+  "description": "ESLint TypeScript configuration for Yoast projects",
   "keywords": [
     "eslint",
     "eslintconfig"
@@ -28,6 +28,6 @@
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">=4.6.1",
     "@typescript-eslint/parser": ">=4.6.1",
-    "eslint-config-yoast-base": ">=5.0.17"
+    "eslint-config-yoast-base": ">=1.0.0"
   }
 }
