@@ -1,13 +1,13 @@
+plugins:
+  - '@typescript-eslint'
+
 extends:
-  - 'yoast-base'
   - 'plugin:@typescript-eslint/recommended'
 
 plugins:
   - '@typescript-eslint/eslint-plugin'
 
-parser: '@typescript-eslint/parser'
 parserOptions:
-  project: 'tsconfig.json'
   ecmaVersion: 2018
   sourceType: 'module'
 
