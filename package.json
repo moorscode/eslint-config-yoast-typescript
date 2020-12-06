@@ -27,6 +27,7 @@
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">=4.6.1",
-    "@typescript-eslint/parser": ">=4.6.1"
+    "@typescript-eslint/parser": ">=4.6.1",
+    "eslint-config-yoast-base": ">=5.0.17"
   }
 }
