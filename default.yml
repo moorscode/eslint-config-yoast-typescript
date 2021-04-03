@@ -1,11 +1,8 @@
 plugins:
-  - '@typescript-eslint'
+  - '@typescript-eslint/eslint-plugin'
 
 extends:
   - 'plugin:@typescript-eslint/recommended'
-
-plugins:
-  - '@typescript-eslint/eslint-plugin'
 
 parserOptions:
   ecmaVersion: 2018
